@@ -37,6 +37,5 @@ chant = 2 * first_name_excl + first_name + "!"
 #6
 chant[13]
 chant[13]!= ' '
+print(chant[13]!='')
 good_chant = True
-
-
